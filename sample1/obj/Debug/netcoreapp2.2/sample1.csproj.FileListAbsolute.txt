@@ -1,0 +1,11 @@
+C:\Users\jacob.apenes\source\repos\CICDAndADP\sample1\bin\Debug\netcoreapp2.2\sample1.deps.json
+C:\Users\jacob.apenes\source\repos\CICDAndADP\sample1\bin\Debug\netcoreapp2.2\sample1.runtimeconfig.json
+C:\Users\jacob.apenes\source\repos\CICDAndADP\sample1\bin\Debug\netcoreapp2.2\sample1.runtimeconfig.dev.json
+C:\Users\jacob.apenes\source\repos\CICDAndADP\sample1\bin\Debug\netcoreapp2.2\sample1.dll
+C:\Users\jacob.apenes\source\repos\CICDAndADP\sample1\bin\Debug\netcoreapp2.2\sample1.pdb
+C:\Users\jacob.apenes\source\repos\CICDAndADP\sample1\obj\Debug\netcoreapp2.2\sample1.csprojAssemblyReference.cache
+C:\Users\jacob.apenes\source\repos\CICDAndADP\sample1\obj\Debug\netcoreapp2.2\sample1.csproj.CoreCompileInputs.cache
+C:\Users\jacob.apenes\source\repos\CICDAndADP\sample1\obj\Debug\netcoreapp2.2\sample1.AssemblyInfoInputs.cache
+C:\Users\jacob.apenes\source\repos\CICDAndADP\sample1\obj\Debug\netcoreapp2.2\sample1.AssemblyInfo.cs
+C:\Users\jacob.apenes\source\repos\CICDAndADP\sample1\obj\Debug\netcoreapp2.2\sample1.dll
+C:\Users\jacob.apenes\source\repos\CICDAndADP\sample1\obj\Debug\netcoreapp2.2\sample1.pdb
